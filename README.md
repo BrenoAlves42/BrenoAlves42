@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Breno Alves</h1>
 <h3 align="center">Bem-vindo ao meu perfil! Sou um programador com paixão por criar software. Com experiência em várias linguagens e frameworks, desenvolvo desde aplicativos web e móveis até jogos educativos. Adoro explorar novas tecnologias e sempre busco aprender e evoluir com cada projeto.</h3>
 
-- 👨‍💻 Meu projeto mais atual está disponível no link: [scriptgame.com.br](scriptgame.com.br)
+- 👨‍💻 Meu projeto mais atual está disponível no link: https://scriptgame.com.br/
 
 - 📫 Contato: **brenoalvesesilva@gmail.com**
 
